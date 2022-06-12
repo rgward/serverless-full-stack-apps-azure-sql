@@ -1,4 +1,4 @@
-name: 'Deploy Azure SQL Database schema for workshop'
+name: 'Deploy Azure SQL Database schema'
 
 on:
   push:
